@@ -33,3 +33,6 @@ code, project files, screenshots and learning progress.
 ## Author
 
 Dhairya Faldu
+
+
+This repository is managed using GitHub Desktop.
